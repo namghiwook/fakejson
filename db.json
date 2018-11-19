@@ -1,0 +1,19 @@
+{
+  "superheros": {
+    "result": 0,
+    "data": [
+      {
+        "identifier": "f0939239329",
+        "name": "SuperMan"
+      },
+      {
+        "identifier": "f0939239379",
+        "name": "Ironman"
+      },
+      {
+        "identifier": "f0939259329",
+        "name": "Hulk"
+      }
+    ]
+  }
+}
